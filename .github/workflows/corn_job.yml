@@ -33,6 +33,7 @@ jobs:
       - name: ls_show
         env: 
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: |
           export TZ='Asia/Shanghai'
           python main.py
@@ -40,8 +41,8 @@ jobs:
              
       - name: PUSH
         env:
-          U_EMAIL: ${{ secrets.BOT_EMAIL }}
-          U_NAME: ${{ secrets.BOT_NAME }}
+          U_EMAIL: ${{ secrets.U_EMAIL }}
+          U_NAME: ${{ secrets.U_NAME }}
         run: |
           pwd
           git config --local user.name "${U_NAME}"  
