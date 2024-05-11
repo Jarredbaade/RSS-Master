@@ -24,6 +24,7 @@ cache = CacheKit(CACHE_PATH)
 def _init():
     load_dotenv()
     openai.api_key = os.getenv("OPENAI_API_KEY")
+    openai.api_base = os.getenv("OPENAI_BASE_URL")
     init_logger()
     init_dirs()
     cache.load_cache()
