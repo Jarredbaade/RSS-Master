@@ -16,6 +16,11 @@
             <content:encoded>
                 <![CDATA[
                     
+                        <div>  关键词: 科技内容分享, 开源杂志, AI模型, 语料训练
+
+总结: 本杂志每周分享科技内容，开源且欢迎投稿，提供程序员招聘服务。封面图展示河南新乡的"冰立方"建筑。文章强调AI模型的关键在于训练语料，而非模型本身。OpenAI工程师James Betker认为，语料的质量和数量对模型效果影响巨大，不同模型使用相同语料训练结果相近。这表明语料是决定模型表现的关键因素。稀土开发者大会征集议题，开放演讲台，鼓励开发者分享经验和技术。 </div>
+                        <hr>
+                    
                     <p>这里记录每周值得分享的科技内容，周五发布。</p>
 <p>本杂志<a href="https://github.com/ruanyf/weekly">开源</a>，欢迎<a href="https://github.com/ruanyf/weekly/issues">投稿</a>。另有<a href="https://github.com/ruanyf/weekly/issues/4390">《谁在招人》</a>服务，发布程序员招聘信息。合作请<a href="mailto:yifeng.ruan@gmail.com">邮件联系</a>（yifeng.ruan@gmail.com）。</p>
 
@@ -478,6 +483,11 @@
             <content:encoded>
                 <![CDATA[
                     
+                        <div>  关键词: 科技周刊, 硬件工程师需求, AI算力, 招聘趋势
+
+总结: 本文介绍了科技周刊的发布情况，并特别强调了硬件工程师招聘需求的历史新高，指出这与AI项目的发展密切相关。文章提到，随着互联网公司对AI项目的投入增加，对硬件工程师的需求也随之上升。同时，文章也分析了软件工程师招聘相对平淡的原因，并预测了未来软件工程师初级岗位可能减少的趋势。此外，还简要介绍了韩国科学家研发的牛肉大米和法国创业公司制造的圆环飞行器等科技动态。 </div>
+                        <hr>
+                    
                     <p>这里记录每周值得分享的科技内容，周五发布。（<strong>[通知] 下周五一假期，周刊暂停一次。</strong>）</p>
 <p>本杂志<a href="https://github.com/ruanyf/weekly">开源</a>，欢迎<a href="https://github.com/ruanyf/weekly/issues">投稿</a>。另有<a href="https://github.com/ruanyf/weekly/issues/4204">《谁在招人》</a>服务，发布程序员招聘信息。合作请<a href="mailto:yifeng.ruan@gmail.com">邮件联系</a>（yifeng.ruan@gmail.com）。</p>
 
@@ -911,6 +921,11 @@
                 
             <content:encoded>
                 <![CDATA[
+                    
+                        <div>  关键词: 科技内容分享, 开源杂志, 饮水鸟玩具, HarmonyOS NEXT
+
+总结: 本文介绍了每周分享科技内容的杂志，该杂志开源并接受投稿，还提供程序员招聘服务。封面图展示了香港中环的发光蛋装置艺术。文章重点介绍了饮水鸟玩具，这是一种利用温度差驱动的物理学玩具，展示了热量转换为能量的原理。此外，还提到了掘金动手实验室与华为鸿蒙团队合作的活动，让开发者提前接触HarmonyOS NEXT系统，并有机会动手实践。活动免费，地点在上海，参与者有机会获得内测名额和奖品。 </div>
+                        <hr>
                     
                     <p>这里记录每周值得分享的科技内容，周五发布。</p>
 <p>本杂志<a href="https://github.com/ruanyf/weekly">开源</a>，欢迎<a href="https://github.com/ruanyf/weekly/issues">投稿</a>。另有<a href="https://github.com/ruanyf/weekly/issues/4204">《谁在招人》</a>服务，发布程序员招聘信息。合作请<a href="mailto:yifeng.ruan@gmail.com">邮件联系</a>（yifeng.ruan@gmail.com）。</p>
@@ -1765,6 +1780,11 @@
                 
             <content:encoded>
                 <![CDATA[
+                    
+                        <div>  关键词: 科技周刊, 灯泡钟, 开源, HarmonyOS NEXT
+
+总结: 本科技周刊每周五发布，开源且欢迎投稿，提供程序员招聘信息。下周因清明节假期暂停。封面图展示山东日照的水上美术馆。分享了巧妙的灯泡钟设计，灵感源自日晷，通过不同转速的灯泡轨道投影形成时间显示，虽未广泛流行，但设计图纸已开源。华为即将发布不兼容安卓的HarmonyOS NEXT，应用需重新开发，成本巨大但不可避免。 </div>
+                        <hr>
                     
                     <p>这里记录每周值得分享的科技内容，周五发布。（<strong>[通知] 下周清明节假期，周刊暂停一次。</strong>）</p>
 <p>本杂志<a href="https://github.com/ruanyf/weekly">开源</a>，欢迎<a href="https://github.com/ruanyf/weekly/issues">投稿</a>。另有<a href="https://github.com/ruanyf/weekly/issues/4075">《谁在招人》</a>服务，发布程序员招聘信息。合作请<a href="mailto:yifeng.ruan@gmail.com">邮件联系</a>（yifeng.ruan@gmail.com）。</p>
