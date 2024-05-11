@@ -9,11 +9,7 @@
   text: HelloGithub
   url: https://hellogithub.com/rss
   use_chatgpt: True
-- htmlUrl: https://app.daily.dev
-  name: fafaea
-  text: DailyDiv
-  url: https://app.daily.dev
-  use_chatgpt: True
+
 想买东西:
 - htmlUrl: http://www.smzdm.com
   name: c5738f
