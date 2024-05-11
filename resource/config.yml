@@ -1,5 +1,3 @@
-休息的时候看:
-
 想买东西:
 - htmlUrl: http://www.smzdm.com
   name: c5738f
@@ -56,3 +54,14 @@
   name: a120ad
   text: 阮一峰的网络日志
   url: http://feeds.feedburner.com/ruanyifeng
+  use_chatgpt: True
+- htmlUrl: https://hellogithub.com
+  name: dad131
+  text: HelloGithub
+  url: https://hellogithub.com/rss
+  use_chatgpt: True
+- htmlUrl: https://app.daily.dev
+  name: 213131
+  text: DailyDiv
+  url: https://app.daily.dev
+  use_chatgpt: True
